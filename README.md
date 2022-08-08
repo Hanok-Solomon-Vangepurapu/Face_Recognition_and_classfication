@@ -13,7 +13,7 @@ Machine Learning project, Here Iam classifying  Sports Personalities. We Restric
 
 Here is the folder structure,
 
-UI : This contains ui HTML code file 
+* UI : This contains ui HTML code file 
 * server: Python flask server
 * model: Contains python notebook for model building
 * google_image_scrapping: code to scrap google for images
