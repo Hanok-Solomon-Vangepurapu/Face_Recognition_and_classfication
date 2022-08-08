@@ -2,10 +2,15 @@
 Machine Learning project, Here Iam classifying  Sports Personalities. We Restrict Classification to only 5 people,
 
 1.Maria Sharapova
+
 2.Serena Williams
+
 3.Virat Kohli
+
 4.Roger Federer
+
 5.Lionel Messi
+
 Here is the folder structure,
 
 UI : This contains ui HTML code file 
