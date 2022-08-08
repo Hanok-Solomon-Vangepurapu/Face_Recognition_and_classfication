@@ -16,14 +16,14 @@ UI : This contains ui HTML code file
 
 Technologies used in this project,
 
- * *Python
+  *Python
 
- * *Numpy and OpenCV for data cleaning
+  *Numpy and OpenCV for data cleaning
 
-* *Matplotlib & Seaborn for data visualization
+ *Matplotlib & Seaborn for data visualization
 
-* *Sklearn for model building
+ *Sklearn for model building
 
-* *Jupyter notebook, visual studio code and pycharm as IDE
+ *Jupyter notebook, visual studio code and pycharm as IDE
 
-* *Python flask for http server
+ *Python flask for http server
