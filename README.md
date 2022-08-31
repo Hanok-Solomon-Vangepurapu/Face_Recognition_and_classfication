@@ -14,7 +14,6 @@ Machine Learning project, Here Iam classifying  Sports Personalities. We Restric
 Here is the folder structure,
 
 * UI : This contains ui HTML code file 
-* server: Python flask server
 * model: Contains python notebook for model building
 * google_image_scrapping: code to scrap google for images
 * images_dataset: Dataset used for our model training
@@ -31,4 +30,4 @@ Technologies used in this project,
 
 * Jupyter notebook, visual studio code and pycharm as IDE
 
-* Python flask for http server
+
