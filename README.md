@@ -1,4 +1,4 @@
-# Sports-Celebrity-FaceRecognition
+# FaceRecognition and Classification
 Machine Learning project, Here Iam classifying  Sports Personalities. We Restrict Classification to only 5 people,
 
 1.Maria Sharapova
